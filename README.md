@@ -1,3 +1,3 @@
-## NoFIRQuests
+# SPT-LegaBarters
 
-Removes the Found in Raid requirements for every quest
+A SPT Modification that adds the missing lega items to the Ref trader within the game
